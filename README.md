@@ -1,4 +1,4 @@
 # RRR-manipulator-trajectories
-RRR manipulator trajectory tracking
+3DOF Robot manipulator (RRR) trajectory tracking
 
 Tracking various trajectories of RRR manipulator in Peter Corke's RVC Matlab toolbox (includes possible singularities).
